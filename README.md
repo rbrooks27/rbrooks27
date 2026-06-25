@@ -68,6 +68,7 @@ Computational Chemistry
 Machine Learning
 
 Software Architecture
+
 ---
 
 ### ✍️ Random Dev Quote
